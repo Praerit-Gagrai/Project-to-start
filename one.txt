@@ -1,2 +1,2 @@
 Hello is my first project on my own.
-This is added iin the second line.
+This is added in the second line.
